@@ -45,6 +45,3 @@ jobs:
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_62BE25734BA4444FAD7664AD8D36E805 }} # change this to your repository secret name
           action: "close"
-
-
-AZUREAPPSERVICE_PUBLISHPROFILE_62BE25734BA4444FAD7664AD8D36E805
